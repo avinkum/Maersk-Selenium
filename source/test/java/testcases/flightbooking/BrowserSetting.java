@@ -1,10 +1,10 @@
-package testcases.mytheresa;
+package testcases.flightbooking;
 
 import java.util.concurrent.TimeUnit;
 
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+
 import static variables.mytheresa.UrlVariables.*;
 
 public class BrowserSetting {
